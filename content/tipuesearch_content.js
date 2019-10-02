@@ -1,0 +1,1 @@
+var tipuesearch = {"pages": [{'title': 'About', 'text': 'ok吧.pdf \n https://dartpad.dev/embed-inline.html?id=ec7f8f0f6ba7c2f541e9ee97ddcaa886 \xa0 \n', 'tags': '', 'url': 'About.html'}, {'title': 'USB', 'text': '', 'tags': '', 'url': 'USB.html'}, {'title': 'USB2', 'text': '', 'tags': '', 'url': 'USB2.html'}]};
