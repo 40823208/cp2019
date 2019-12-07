@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CP2019 計算機程式 40823208 - Misc</title><link href="./" rel="alternate"></link><link href=".%5Cfeeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2019-11-07T20:17:00+08:00</updated><entry><title>期中考</title><link href=".%5Cvideo-1.html" rel="alternate"></link><published>2019-11-07T20:17:00+08:00</published><updated>2019-11-07T20:17:00+08:00</updated><author><name>yen</name></author><id>tag:None,2019-11-07:.\video-1.html</id><content type="html">&lt;p&gt;期中報告&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CP2019 計算機程式 40823208 - Misc</title><link href="./" rel="alternate"></link><link href=".%5Cfeeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2019-12-07T16:24:00+08:00</updated><entry><title>w13 溫度轉換</title><link href=".%5Ctemperature%20change.html" rel="alternate"></link><published>2019-12-07T16:24:00+08:00</published><updated>2019-12-07T16:24:00+08:00</updated><author><name>40823208</name></author><id>tag:None,2019-12-07:.\temperature change.html</id><summary type="html">&lt;p&gt;w13 溫度轉換&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/kNOaVy3Dj6Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</summary><content type="html">&lt;p&gt;w13 溫度轉換&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/kNOaVy3Dj6Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+&lt;p&gt;將["20C", "30C", "50F", "40C", "23F"]轉換攝氏華氏,利用迴圈將各數字根據溫度類別傳達給對應的函式進行溫度轉換,經由這個轉換的程式能夠對一些計算更方便.&lt;/p&gt;</content><category term="2019FallCP"></category></entry><entry><title>期中考</title><link href=".%5Cvideo-1.html" rel="alternate"></link><published>2019-11-07T20:17:00+08:00</published><updated>2019-11-07T20:17:00+08:00</updated><author><name>yen</name></author><id>tag:None,2019-11-07:.\video-1.html</id><content type="html">&lt;p&gt;期中報告&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/7Dk_bbE1P_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2019FallCP"></category></entry><entry><title>嵌入 Dartpaad</title><link href=".%5Cembedded-darpad-to-blog.html" rel="alternate"></link><published>2019-10-31T11:10:00+08:00</published><updated>2019-10-31T11:10:00+08:00</updated><author><name>yen</name></author><id>tag:None,2019-10-31:.\embedded-darpad-to-blog.html</id><summary type="html">&lt;p&gt;在此利用 https://dartpad.github.io 將位於 downloads 目錄中的 dart 程式導入.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;在此利用 https://dartpad.github.io 將位於 downloads 目錄中的 dart 程式導入.&lt;/p&gt;
 
