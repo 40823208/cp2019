@@ -37,9 +37,9 @@
 <v t="leo.20200108182610.1"><vh>導入繪製國旗</vh>
 <v t="leo.20200108182711.1"><vh>繪製國旗程式</vh></v>
 </v>
+</v>
 <v t="leo.20200108183242.1"><vh>導入心得</vh>
 <v t="leo.20200108183245.1"><vh>心得</vh></v>
-</v>
 </v>
 </v>
 </v>
@@ -74,11 +74,11 @@ Created by [40823208](https://40823208.github.io/cp2019/content/index.html)
 </t>
 <t tx="leo.20180902120523.12"># 目錄
 
-重量轉換程式(https://40823208.github.io/cp2019/reveal/index.html#/2)
-各組溫度轉換程式(https://40823208.github.io/cp2019/reveal/index.html#/2/1)
-亂數分組(https://40823208.github.io/cp2019/reveal/index.html#/2/2)
-繪製國旗(https://40823208.github.io/cp2019/reveal/index.html#/2/3)
-心得(https://40823208.github.io/cp2019/reveal/index.html#/3)
+[重量轉換程式](https://40823208.github.io/cp2019/reveal/index.html#/2)
+[各組溫度轉換程式](https://40823208.github.io/cp2019/reveal/index.html#/2/1)
+[亂數分組](https://40823208.github.io/cp2019/reveal/index.html#/2/2)
+[繪製國旗](https://40823208.github.io/cp2019/reveal/index.html#/2/3)
+[心得](https://40823208.github.io/cp2019/reveal/index.html#/3)
 
 
 </t>
